@@ -1,0 +1,6 @@
+development:
+  GMAIL_USERNAME: a
+  GMAIL_PASSWORD: a
+production:
+  GMAIL_USERNAME: a
+  GMAIL_PASSWORD: a
